@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\gameuser\desktop\chaseproject\server\multipleclientsbarebonesserver\main.cpp(94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gameuser\desktop\chaseproject\server\multipleclientsbarebonesserver\main.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\chaseproject\server\multipleclientsbarebonesserver\main.cpp(139): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gameuser\desktop\chaseproject\server\multipleclientsbarebonesserver\main.cpp(161): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MultipleClientsBarebonesServer.vcxproj -> C:\Users\gameuser\Desktop\ChaseProject\Server\x64\Debug\MultipleClientsBarebonesServer.exe
